@@ -32,7 +32,7 @@ public class SpringFoxSwaggerConfig extends WebMvcConfigurerAdapter {
                 .description("Rackspace Java Code Test")
                 .termsOfServiceUrl("")
                 .contact(new Contact("Any Help","","sc6.j2ee@gmail.com"))
-                .license("srikanthchebrolu")
+                .license("srikanth chebrolu")
                 .licenseUrl("")
                 .version("1.0")
                 .build();

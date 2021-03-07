@@ -25,8 +25,4 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
-test {
-	useJUnitPlatform()
-}
-
 apply from: 'gradle/dependencies.gradle'
