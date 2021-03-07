@@ -21,7 +21,7 @@ public class NumberUtil {
 //    static Integer[] numbers = new Integer[] { 1, 1, 3, 3, 5, 7, 8, 8, 10 };
 //    public static void main(String s[]) {
 //        NumberUtil numberUtil = new NumberUtil();
-//        Integer[] uniqueNumbers = numberUtil.getUniqueNumbers(numbers);
+//        List<String> uniqueNumbers = numberUtil.getUniqueNumbers(numbers);
 //        log.info("Unique Numbers in a given List :: " + new Gson().toJson(uniqueNumbers));
 //    }
 
